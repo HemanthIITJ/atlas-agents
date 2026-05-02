@@ -21,6 +21,7 @@ A practical, code-first guide to building autonomous and semi-autonomous AI agen
 - `ch05_state_graphs/`: LangGraph retry persistence and human-in-the-loop Code Review mechanism.
 - `ch06_multi_agent/`: CrewAI pipelines and adversarial debate protocols.
 - `ch07_model_portability/`: LiteLLM fallback routing, Ollama local agents, and DSPy compiled pipelines.
+- `ch08_mcp_a2a/`: MCP servers, A2A agent discovery, and UI protocols.
 - `shared/`: The global config arrays and declarative skill models.
 
 ## 🛠️ Prerequisites
